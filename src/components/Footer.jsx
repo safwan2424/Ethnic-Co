@@ -23,15 +23,15 @@ const Footer = () => {
           </div>
           <div className="flex justify-center gap-8">
             <a
-              href="https://www.google.com/maps?q=Ranbanka+Place+Hotel,+Circuit+House,+Jodhpur,+Rajasthan"
+              href="https://www.google.com/maps"
               target="_blank"
               rel="noopener noreferrer"
               className="text-luxuryGold hover:underline"
             >
-              Open in Map (Kalangi)
+              Open in Map 
             </a>
             <a
-              href="https://www.google.com/maps?q=Rukhman+Store,+Jodhpur"
+              href="https://www.google.com/maps"
               target="_blank"
               rel="noopener noreferrer"
               className="text-luxuryGold hover:underline"
